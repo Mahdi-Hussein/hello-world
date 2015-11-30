@@ -1,2 +1,7 @@
 # hello-world
-Hello world repository
+
+Playing around with Github
+
+testing branching and committing
+
+updated again
